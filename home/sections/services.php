@@ -18,9 +18,17 @@
                 <div class="team-classic">
                   <div class="team-classic-figure"><img src="images/service-1-391x252.jpg" alt="" width="391" height="252"/>
                     <ul class="team-classic-soc-list">
-                      <li><a class="icon icon-md fa-facebook" href="<? echo $facebook_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-instagram" href="<? echo $instagram_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-twitter" href="#"></a></li>
+                      <?php
+                      if($facebook_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                      }
+                      if($instagram_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                      }
+                      if($twitter_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                      }
+                      ?>
                     </ul>
                   </div>
                   <div class="team-classic-caption">
@@ -35,9 +43,17 @@
                 <div class="team-classic">
                   <div class="team-classic-figure"><img src="home/img/thumbs/sweet-sixteen.jpg" alt="" width="391" height="252"/>
                     <ul class="team-classic-soc-list">
-                      <li><a class="icon icon-md fa-facebook" href="<? echo $facebook_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-instagram" href="<? echo $instagram_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-twitter" href="<? echo $twitter_link; ?>"></a></li>
+                      <?php
+                      if($facebook_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                      }
+                      if($instagram_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                      }
+                      if($twitter_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                      }
+                      ?>
                     </ul>
                   </div>
                   <div class="team-classic-caption">
@@ -52,9 +68,17 @@
                 <div class="team-classic">
                   <div class="team-classic-figure"><img src="home/img/thumbs/baby-shower.jpg" alt="" width="391" height="252"/>
                     <ul class="team-classic-soc-list">
-                      <li><a class="icon icon-md fa-facebook" href="<? echo $facebook_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-instagram" href="<? echo $instagram_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-twitter" href="<? echo $twitter_link; ?>"></a></li>
+                      <?php
+                      if($facebook_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                      }
+                      if($instagram_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                      }
+                      if($twitter_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                      }
+                      ?>
                     </ul>
                   </div>
                   <div class="team-classic-caption">
@@ -69,9 +93,17 @@
                 <div class="team-classic">
                   <div class="team-classic-figure"><img src="home/img/thumbs/child-party.jpg" alt="" width="391" height="252"/>
                     <ul class="team-classic-soc-list">
-                      <li><a class="icon icon-md fa-facebook" href="<? echo $facebook_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-instagram" href="<? echo $instagram_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-twitter" href="<? echo $twitter_link; ?>"></a></li>
+                      <?php
+                      if($facebook_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                      }
+                      if($instagram_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                      }
+                      if($twitter_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                      }
+                      ?>
                     </ul>
                   </div>
                   <div class="team-classic-caption">
@@ -86,9 +118,17 @@
                 <div class="team-classic">
                   <div class="team-classic-figure"><img src="images/service-5-391x252.jpg" alt="" width="391" height="252"/>
                     <ul class="team-classic-soc-list">
-                      <li><a class="icon icon-md fa-facebook" href="<? echo $facebook_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-instagram" href="<? echo $instagram_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-twitter" href="<? echo $twitter_link; ?>"></a></li>
+                      <?php
+                      if($facebook_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                      }
+                      if($instagram_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                      }
+                      if($twitter_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                      }
+                      ?>
                     </ul>
                   </div>
                   <div class="team-classic-caption">
@@ -103,9 +143,17 @@
                 <div class="team-classic">
                   <div class="team-classic-figure"><img src="images/service-6-391x252.jpg" alt="" width="391" height="252"/>
                     <ul class="team-classic-soc-list">
-                      <li><a class="icon icon-md fa-facebook" href="<? echo $facebook_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-instagram" href="<? echo $instagram_link; ?>"></a></li>
-                      <li><a class="icon icon-md fa-twitter" href="<? echo $twitter_link; ?>"></a></li>
+                      <?php
+                      if($facebook_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                      }
+                      if($instagram_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                      }
+                      if($twitter_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                      }
+                      ?>
                     </ul>
                   </div>
                   <div class="team-classic-caption">
