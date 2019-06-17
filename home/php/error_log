@@ -1,0 +1,2 @@
+[23-Mar-2019 20:38:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home3/mburton9/public_html/SDC/home/php/send-email.php on line 28
+[23-Mar-2019 20:39:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home3/mburton9/public_html/SDC/home/php/send-email.php on line 28
