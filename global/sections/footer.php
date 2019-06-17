@@ -27,13 +27,21 @@
                     <h5 class="footer-title">Get Social</h5>
                     <p class="big">Follow us to stay connected and receive instant updates.</p>
                     <ul class="social-list">
-                      <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>
-                      <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>
-                      <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>
+                      <?php
+                      if($facebook_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                      }
+                      if($instagram_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                      }
+                      if($twitter_link != ''){
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                      }
+                      ?>
                     </ul>
                   </div>
                   <div class="col-12 text-center">
-                    <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Sophisticated Decorating Concepts</span><span>.&nbsp;</span><span> Design&nbsp;by&nbsp;<a href="https://burtonsolution.com/" target="_blank">Burton Solution</a></span></p>
+                    <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Sophisticated Decorating Concepts</span><span>.&nbsp;</span><span> Design&nbsp;by&nbsp;<a href="https://ignition-innovations.com/" target="_blank">Ignition Innovations</a></span></p>
                   </div>
                 </div>
               </div>

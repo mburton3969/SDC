@@ -1,7 +1,7 @@
 <?php
 //Settings...
 $facebook_link = '';
-$instagram_link = '';
+$instagram_link = 'https://www.instagram.com/2plantastic/?hl=en';
 $twitter_link = '';
 
 if($_GET['contact'] == 'success'){
@@ -14,54 +14,54 @@ if($_GET['contact'] == 'success'){
 <html class="wide wow-animation" lang="en">
   <head>
     <title>Sophisticated Decorating Concepts</title>
-    <? include 'global/sections/head.php'; ?>
+    <?php include 'global/sections/head.php'; ?>
   </head>
   <body>
-    <? include 'global/sections/ie.php'; ?>
-    <? include 'global/sections/pre-loader.php'; ?>
+    <?php include 'global/sections/ie.php'; ?>
+    <?php include 'global/sections/pre-loader.php'; ?>
     
     <div class="page">
       <!-- Page Header-->
-      <? include 'global/sections/nav.php'; ?>
+      <?php include 'global/sections/nav.php'; ?>
       
       <!-- Swiper-->
-      <? include 'home/sections/hero.php'; ?>
+      <?php include 'home/sections/hero.php'; ?>
       
       <!-- About Us -->
-      <? include 'home/sections/about.php'; ?>
+      <?php include 'home/sections/about.php'; ?>
       
       <!-- Service-->
-      <? include 'home/sections/services.php'; ?>
+      <?php include 'home/sections/services.php'; ?>
       
       <!--	Portfolio-->
-      <? include 'home/sections/portfolio.php'; ?>
+      <?php include 'home/sections/portfolio.php'; ?>
       
       <!-- Plan the Event in 4-steps-->
-      <? //include 'home/sections/plan.php'; ?>
+      <?php include 'home/sections/plan.php'; ?>
       
       <!-- Testimonials-->
-      <? include 'home/sections/testimonials.php'; ?>
+      <?php include 'home/sections/testimonials.php'; ?>
       
       <!-- Event Plans-->
-      <? //include 'home/sections/pricing.php'; ?>
+      <?php //include 'home/sections/pricing.php'; ?>
       
       <!-- Our Blog-->
-      <? //include 'home/sections/blog.php'; ?>
+      <?php //include 'home/sections/blog.php'; ?>
       
       <!--	Vendors -->
-      <? //include 'home/sections/vendors.php'; ?>
+      <?php //include 'home/sections/vendors.php'; ?>
       
       <!--Call To Action-->
-      <? include 'home/sections/call-to-action.php'; ?>
+      <?php include 'home/sections/call-to-action.php'; ?>
       
       <!--Contact-->
-      <? include 'home/sections/contact.php'; ?>
+      <?php include 'home/sections/contact.php'; ?>
       
       <!-- Page Footer-->
-      <? include 'global/sections/footer.php'; ?>
+      <?php include 'global/sections/footer.php'; ?>
       
     </div>
-      <? include 'global/sections/includes.php'; ?>
+      <?php include 'global/sections/includes.php'; ?>
     
     <?
     if($_GET['contact'] == 'success'){

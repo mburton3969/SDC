@@ -56,7 +56,7 @@
                 </div>
                 <div class="row justify-content-center">
                   <div class="col-12 col-sm-7 col-lg-5">
-                    <button class="button button-block button-lg button-gradient" name="submit_button" value="submitted" type="submit"><? echo $send_btn; ?></button>
+                    <button class="button button-block button-lg button-gradient" name="submit_button" value="submitted" type="submit"><?php echo $send_btn; ?></button>
                   </div>
                 </div>
               </form>
