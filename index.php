@@ -33,11 +33,11 @@ if($_GET['contact'] == 'success'){
       <!-- Service-->
       <?php include 'home/sections/services.php'; ?>
       
-      <!--	Portfolio-->
-      <?php include 'home/sections/portfolio.php'; ?>
-      
       <!-- Plan the Event in 4-steps-->
       <?php include 'home/sections/plan.php'; ?>
+      
+      <!--	Portfolio-->
+      <?php include 'home/sections/portfolio.php'; ?>
       
       <!-- Testimonials-->
       <?php include 'home/sections/testimonials.php'; ?>

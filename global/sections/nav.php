@@ -21,6 +21,8 @@
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="#services">Services</a>
                       </li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="#process">Process</a>
+                      </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="#portfolio">Portfolio</a>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="#testimonials">Testimonials</a>

@@ -1,14 +1,14 @@
-<section class="section section-lg bg-gray-1" id="process">
+<section class="section parallax-container" data-parallax-img="home/img/balloon-arch.jpg"">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-10 col-xl-9 text-center wow-outer">
-              <div class="wow slideInLeft">
+              <div class="wow slideInLeft" style="background:#FFFFFF; opacity:0.85;">
                 <h3 class="title-decorate offset-top-30">Plan Your Event In 4 Steps</h3>
                 <p>Planning your event is not complex at all if you decide to trust us with this matter.<br>This short guide will help you find out more about our services.</p>
               </div>
             </div>
           </div>
-          <div class="tabs-custom tabs-horizontal tabs-modern" id="tabs-1">
+          <div class="tabs-custom tabs-horizontal tabs-modern" id="tabs-1" style="opacity:0.85;">
             <div class="row no-gutters row-eq-height">
               <div class="col-lg-4 col-xl-3 order-lg-2 wow-outer">
                 <div class="wow slideInRight">

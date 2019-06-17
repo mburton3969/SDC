@@ -69,6 +69,48 @@
                       <div class="gallery-item-classic-caption"><a href="home/img/portfolio/image8.png" data-lightgallery="item">zoom</a></div>
                     </div>
                   </div>
+                </div><!--UNDER HERE START-->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 isotope-item wow-outer" data-filter="Category 2">
+                  <div class="wow fadeInUp">
+                    <div class="gallery-item-classic"><img src="home/img/portfolio/image15.jpeg" alt="" width="463" height="383"/>
+                      <div class="gallery-item-classic-caption"><a href="home/img/portfolio/image15.jpeg" data-lightgallery="item">zoom</a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 isotope-item wow-outer" data-filter="Category 2">
+                  <div class="wow fadeInUp">
+                    <div class="gallery-item-classic"><img src="home/img/portfolio/image16.jpeg" alt="" width="463" height="383"/>
+                      <div class="gallery-item-classic-caption"><a href="home/img/portfolio/image16.jpeg" data-lightgallery="item">zoom</a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 isotope-item wow-outer" data-filter="Category 2">
+                  <div class="wow fadeInUp">
+                    <div class="gallery-item-classic"><img src="home/img/portfolio/image17.jpeg" alt="" width="463" height="383"/>
+                      <div class="gallery-item-classic-caption"><a href="home/img/portfolio/image17.jpeg" data-lightgallery="item">zoom</a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 isotope-item wow-outer" data-filter="Category 2">
+                  <div class="wow fadeInUp">
+                    <div class="gallery-item-classic"><img src="home/img/portfolio/image18.jpeg" alt="" width="463" height="383"/>
+                      <div class="gallery-item-classic-caption"><a href="home/img/portfolio/image18.jpeg" data-lightgallery="item">zoom</a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 isotope-item wow-outer" data-filter="Category 2">
+                  <div class="wow fadeInUp">
+                    <div class="gallery-item-classic"><img src="home/img/portfolio/image19.jpeg" alt="" width="463" height="383"/>
+                      <div class="gallery-item-classic-caption"><a href="home/img/portfolio/image19.jpeg" data-lightgallery="item">zoom</a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 isotope-item wow-outer" data-filter="Category 2">
+                  <div class="wow fadeInUp">
+                    <div class="gallery-item-classic"><img src="home/img/portfolio/image20.jpeg" alt="" width="463" height="383"/>
+                      <div class="gallery-item-classic-caption"><a href="home/img/portfolio/image20.jpeg" data-lightgallery="item">zoom</a></div>
+                    </div>
+                  </div>
                 </div>
                 <div class="col-1"></div>
               </div>
