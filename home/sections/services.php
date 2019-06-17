@@ -20,13 +20,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
@@ -45,13 +45,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
@@ -70,13 +70,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
@@ -95,13 +95,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
@@ -113,56 +113,7 @@
                 </div>
               </div>
             </div>
-            <!--<div class="col-md-6 col-lg-4">
-              <div class="wow fadeInUp">
-                <div class="team-classic">
-                  <div class="team-classic-figure"><img src="images/service-5-391x252.jpg" alt="" width="391" height="252"/>
-                    <ul class="team-classic-soc-list">
-                      <?php
-                      if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
-                      }
-                      if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
-                      }
-                      if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
-                      }
-                      ?>
-                    </ul>
-                  </div>
-                  <div class="team-classic-caption">
-                    <h4><a class="team-name">Cake Design</a></h4>
-                    <p>Creative cake ideas for your event</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-              <div class="wow fadeInUp">
-                <div class="team-classic">
-                  <div class="team-classic-figure"><img src="images/service-6-391x252.jpg" alt="" width="391" height="252"/>
-                    <ul class="team-classic-soc-list">
-                      <?php
-                      if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="<? echo $facebook_link; ?>"></a></li>';
-                      }
-                      if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="<? echo $instagram_link; ?>"></a></li>';
-                      }
-                      if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="<? echo $twitter_link; ?>"></a></li>';
-                      }
-                      ?>
-                    </ul>
-                  </div>
-                  <div class="team-classic-caption">
-                    <h4><a class="team-name" href="team-member.html">Dance Lessons</a></h4>
-                    <p>Impress every guest with your dance</p>
-                  </div>
-                </div>
-              </div>
-            </div>-->
+            
           </div>
         </div>
       </section>
