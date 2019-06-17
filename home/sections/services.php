@@ -20,13 +20,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" target="_blank" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" target="_blank" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" target="_blank" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
@@ -45,13 +45,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" target="_blank" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" target="_blank" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" target="_blank" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
@@ -70,13 +70,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" target="_blank" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" target="_blank" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" target="_blank" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
@@ -95,13 +95,13 @@
                     <ul class="team-classic-soc-list">
                       <?php
                       if($facebook_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="' . $facebook_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" target="_blank" href="' . $facebook_link . '"></a></li>';
                       }
                       if($instagram_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="' . $instagram_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" target="_blank" href="' . $instagram_link . '"></a></li>';
                       }
                       if($twitter_link != ''){
-                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="' . $twitter_link . '"></a></li>';
+                        echo '<li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" target="_blank" href="' . $twitter_link . '"></a></li>';
                       }
                       ?>
                     </ul>
