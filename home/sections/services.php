@@ -7,7 +7,7 @@
               </div>
             </div>
             <div class="col-lg-8 wow-outer">
-              <div class="wow fadeInUp">
+              <div class="wow fadeInUp cushycms" title="What We Offer Description">
                 <p>Our team provides a variety of event-related services, designing and organizing its every element.</p>
               </div>
             </div>
