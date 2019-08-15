@@ -1,5 +1,17 @@
 <section class="section section-lg text-center" id="about">
         <div class="container">
+          <div class="row row-30 justify-content-center text-center">
+            <div class="col-12 wow-outer">
+              <div class="wow slideInDown">
+                <h3 class="title-decorate title-decorate-center">About Us</h3>
+              </div>
+            </div>
+            <div class="col-lg-8 wow-outer">
+              <div class="wow fadeInUp cushycms" title="About Us Description">
+                <p>Sophisticated Decorating Concepts provides full event planning services from decorating to venue selections.</p>
+              </div>
+            </div>
+          </div>
           <div class="row row-50">
             <div class="col-md-6 col-lg-4 wow-outer">
               <div class="wow slideInLeft">

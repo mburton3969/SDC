@@ -63,7 +63,7 @@ if($_GET['contact'] == 'success'){
     </div>
       <?php include 'global/sections/includes.php'; ?>
     
-    <?
+    <?php
     if($_GET['contact'] == 'success'){
       echo '<script>
               document.getElementById("contact-form-btn").click();
